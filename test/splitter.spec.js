@@ -15,7 +15,7 @@ const EPUB_DOWNLOAD_LINK = 'http://static.tribalnova.com.s3.amazonaws.com/habita
 const EPUB_FILENAME = 'temp/book.epub';
 
 
-describe.only('test epub splitter alone', () => {
+describe('test epub splitter alone', () => {
     before(() => {
         shell.rm('-rf', 'temp');
         shell.mkdir('-p', 'temp');
