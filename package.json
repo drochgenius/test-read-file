@@ -1,0 +1,28 @@
+{
+  "name": "test-read-file",
+  "version": "1.0.0",
+  "description": "Troubleshoot fs.readFile truncation issue on Jenkins Docker Slave",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha",
+    "format": "prettier --single-quote --tab-width 4 test/**/*.js --write"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/drochgenius/test-read-file.git"
+  },
+  "keywords": [],
+  "author": "Dominique Rochefort <dominique.rochefort@hmhco.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/drochgenius/test-read-file/issues"
+  },
+  "homepage": "https://github.com/drochgenius/test-read-file#readme",
+  "devDependencies": {
+    "chai": "^4.1.0",
+    "eslint-config-hmh-mtl": "^1.3.0"
+  }
+}
