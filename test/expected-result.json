@@ -1,0 +1,40 @@
+{
+    "input": {
+        "title": "Grade 1 Unit 2 RtI (English)",
+        "path": "temp/book.epub"
+    },
+    "output": [
+        {
+            "title": "Unit 2 : Big Idea 1: Represent Addition Situations (Tier 1)",
+            "path": "temp/Grade 1 Unit 2 RtI (English)/Unit 2  - Big Idea 1 - Represent Addition Situations (Tier 1).epub"
+        },
+        {
+            "title": "Unit 2 : Big Idea 1: Represent Addition Situations (Tier 2)",
+            "path": "temp/Grade 1 Unit 2 RtI (English)/Unit 2  - Big Idea 1 - Represent Addition Situations (Tier 2).epub"
+        },
+        {
+            "title": "Unit 2 : Big Idea 2: Solve Addition Equations (Tier 1)",
+            "path": "temp/Grade 1 Unit 2 RtI (English)/Unit 2  - Big Idea 2 - Solve Addition Equations (Tier 1).epub"
+        },
+        {
+            "title": "Unit 2 : Big Idea 2: Solve Addition Equations (Tier 2)",
+            "path": "temp/Grade 1 Unit 2 RtI (English)/Unit 2  - Big Idea 2 - Solve Addition Equations (Tier 2).epub"
+        },
+        {
+            "title": "Unit 2 : Big Idea 3: Solve Subtraction Equations (Tier 1)",
+            "path": "temp/Grade 1 Unit 2 RtI (English)/Unit 2  - Big Idea 3 - Solve Subtraction Equations (Tier 1).epub"
+        },
+        {
+            "title": "Unit 2 : Big Idea 3: Solve Subtraction Equations (Tier 2)",
+            "path": "temp/Grade 1 Unit 2 RtI (English)/Unit 2  - Big Idea 3 - Solve Subtraction Equations (Tier 2).epub"
+        },
+        {
+            "title": "Unit 2 : Big Idea 4: Equation Exploration (Tier 1)",
+            "path": "temp/Grade 1 Unit 2 RtI (English)/Unit 2  - Big Idea 4 - Equation Exploration (Tier 1).epub"
+        },
+        {
+            "title": "Unit 2 : Big Idea 4: Equation Exploration (Tier 2)",
+            "path": "temp/Grade 1 Unit 2 RtI (English)/Unit 2  - Big Idea 4 - Equation Exploration (Tier 2).epub"
+        }
+    ]
+}
