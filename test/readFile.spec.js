@@ -3,7 +3,6 @@ const { expect } = require('chai');
 
 const FILE = 'data/toc.xhtml';
 const FILE_LENGTH = 57149;
-const EPUB_DOWNLOAD_LINK = 'http://static.tribalnova.com.s3.amazonaws.com/habitat/mx18/hmh_mx18_1u2rti/mx18-g1-dlo2-hmh_mx18_1u2rti-20170720-smil.epub';
 
 
 function dummyAsyncOperation() {
@@ -41,4 +40,3 @@ describe('fs.readFile reading file as string', () => {
             .then(readFileAsPromise));
 });
 
-describe('test epub splitter alone', ()=>{})

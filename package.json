@@ -23,10 +23,11 @@
   "homepage": "https://github.com/drochgenius/test-read-file#readme",
   "devDependencies": {
     "chai": "^4.1.0",
+    "chai-files": "^1.4.0",
     "eslint-config-hmh-mtl": "^1.3.0"
   },
   "dependencies": {
-    "@hmh/hab-epub-splitter": "^0.6.5",
+    "@hmh/hab-epub-splitter": "^0.6.7",
     "@hmh/habitat-epub-export": "^0.3.2"
   }
 }
