@@ -4,6 +4,11 @@ const { expect } = require('chai');
 const FILE = 'data/toc.xhtml';
 const FILE_LENGTH = 57149;
 
+
+function delay(wait = 100) {
+    return new Promise(resolve => setTimeout(resolve, wait));
+}
+
 function readFile(done) {
     fs.readFile(FILE, 'utf8', (err, data) => {
         expect(err).to.be.null;
