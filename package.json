@@ -27,7 +27,7 @@
     "eslint-config-hmh-mtl": "^1.4.1"
   },
   "dependencies": {
-    "@hmh/hab-epub-splitter": "^1.0.1",
+    "@hmh/hab-epub-splitter": "^1.0.2",
     "@hmh/habitat-epub-export": "^0.3.2"
   }
 }
