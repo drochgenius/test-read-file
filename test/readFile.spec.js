@@ -2,7 +2,7 @@ const fs = require('fs');
 const { expect } = require('chai');
 
 const FILE = 'data/toc.xhtml';
-const FILE_LENGTH = 57149;
+const FILE_LENGTH = 57142;
 
 
 function delay(wait = 100) {
