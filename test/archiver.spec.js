@@ -33,7 +33,7 @@ function readFileAsPromise() {
     return new Promise(readFile);
 }
 
-describe.only('test readfile after unzipping the EPUB', () => {
+describe('test readfile after unzipping the EPUB', () => {
     before(() => {
         shell.rm('-rf', 'temp');
         shell.mkdir('-p', 'temp');
